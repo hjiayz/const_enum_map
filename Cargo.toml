@@ -1,0 +1,13 @@
+[package]
+name = "const_enum_map"
+version = "0.1.0"
+authors = ["hjiayz@gmail.com"]
+edition = "2018"
+repository = "https://github.com/hjiayz/static_enum_map.git"
+license = "MIT"
+keywords = ["data-structure", "no_std", "enum"]
+categories = ["data-structures", "no-std"]
+description = "Get const value from enum handle"
+readme = "README.MD"
+
+[dependencies]
